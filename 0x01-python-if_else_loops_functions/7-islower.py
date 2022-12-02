@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 7-islower.py
-# sami birhanu <samuelbirhanu01@gmail.com>
+# Kelvin Amamize <kelvinamamize@gmail.com>
 
 
 def islower(c):
