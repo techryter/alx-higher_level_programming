@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 100-print_tebahpla.py
-# Sami Birhanu <samuelbirhanu01@gmail.com>
+# Kelvin Amamize <kelvinamamize@gmail.com>
 
 """"Print the alphabet in reverse order alternating upper- and lower-case."""
 i = 0
