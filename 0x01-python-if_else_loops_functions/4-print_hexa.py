@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 4-print_hexa.py
-# Sami Birhanu <samuelbirhanu01@gmail.com>
+# Kelvin Amamize <kelvinamamize@gmail.com>
 
 """Print numbers 0 to 98 in decimal and hexadecimal."""
 for number in range(0, 99):
